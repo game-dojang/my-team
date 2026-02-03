@@ -1,7 +1,7 @@
 # my-team
 우리팀의 소개
 
-# 고준일
+# JUNIL KO
 - 직업: 프로그래머
 
 # GAMEDOJANG
